@@ -2,4 +2,9 @@ Learning GitHub...
 
 Welcome to pfranice Repo alterado.
 Using this vim program...
+<<<<<<< HEAD
 correccao bug 42.
+=======
+ALTERACAO PARA O BRANCH PARTE2.
+readme atualizado com funcionalidadex
+>>>>>>> funcionalidadex
